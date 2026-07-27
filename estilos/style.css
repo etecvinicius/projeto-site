@@ -41,6 +41,6 @@ article p {
     text-align: justify;
 }
 
-article img {
+article img, article video {
     margin: 15px auto;
 }
